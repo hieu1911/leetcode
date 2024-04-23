@@ -4,8 +4,10 @@ using namespace std;
 class Solution {
 public:
     string convert(string s, int numRows) {
-        int currRow = 0, dir = 1;
-        vector<string> v;
+        if (numRows <= 1) return s;
+        
+        int currRow = 0, dir = -1;
+        vector<string> v(numRows, "");
         string res;
 
         for (int i = 0; i < s.length(); ++i) {
@@ -13,7 +15,7 @@ public:
                 dir *= -1;
             }
 
-            v[j] += s[i];
+            v[currRow] += s[i];
             if (dir == 1) {
                 currRow++;
             } else {
@@ -21,9 +23,11 @@ public:
             }
         }
 
-        for (int i = 0; i < currRow; ++i) {
+        for (int i = 0; i < numRows; ++i) {
             res += v[i];
         }
+        
+        return res;
     }
 };
 
