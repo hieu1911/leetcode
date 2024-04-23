@@ -8,3 +8,4 @@
 | 5 | Longest palindromic substring | [Link](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/5.longest-palindromic-substring.cpp) |
 | 6 | Zigzag conversion | [Link](https://leetcode.com/problems/zigzag-conversion/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/6.zigzag-conversion.cpp) |
 | 7 | Reverse integer | [Link](https://leetcode.com/problems/reverse-integer/description/) | [Link](https://leetcode.com/problems/zigzag-conversion/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/7.reverse-integer.cpp) |
+| 8 | String to integer (atoi) | [Link](https://leetcode.com/problems/string-to-integer-atoi/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/8.string-to-integer-atoi.cpp) |
