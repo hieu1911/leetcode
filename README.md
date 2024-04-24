@@ -13,3 +13,4 @@
 | 10 | Regular expression matching | [Link](https://leetcode.com/problems/regular-expression-matching/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/10.regular-expression-matching.cpp) |
 | 11 | Container with most water | [Link](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/11.container-with-most-water.cpp) |
 | 12 | Integer to roman | [Link](https://leetcode.com/problems/integer-to-roman/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/12.integer-to-roman.cpp) |
+| 13 | Roman to integer | [Link](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/13.roman-to-integer.cpp) |
