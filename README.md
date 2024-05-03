@@ -20,4 +20,5 @@
 | 17 | Letter combinations of a phone number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/17.letter-combinations-of-a-phone-number.cpp) |
 | 18 | 4Sum | [Link](https://leetcode.com/problems/4sum/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/18.4sum.cpp) |
 | 19 | Remove nth note from end of list | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/19.remove-nth-node-from-end-of-list.cpp) |
-| 20 | Valid parentheses | [Link](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/hieu1911/leetcode/blob/easy/medium/20.valid-parenthese.cpp) |
+| 20 | Valid parentheses | [Link](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/hieu1911/leetcode/blob/easy/20.valid-parenthese.cpp) |
+| 21 | Merge two sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/hieu1911/leetcode/blob/easy/21.merge-two-sorted-lists.cpp) |
