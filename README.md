@@ -22,3 +22,4 @@
 | 19 | Remove nth note from end of list | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/19.remove-nth-node-from-end-of-list.cpp) |
 | 20 | Valid parentheses | [Link](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/hieu1911/leetcode/blob/easy/20.valid-parenthese.cpp) |
 | 21 | Merge two sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/hieu1911/leetcode/blob/easy/21.merge-two-sorted-lists.cpp) |
+| 22 | Generate parenthese | [Link](https://leetcode.com/problems/generate-parentheses/description/) | [Link](https://github.com/hieu1911/leetcode/blob/medium/22.generate-parenthese.cpp) |
