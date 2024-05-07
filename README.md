@@ -24,3 +24,4 @@
 | 21 | Merge two sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/21.merge-two-sorted-lists.cpp) |
 | 22 | Generate parenthese | [Link](https://leetcode.com/problems/generate-parentheses/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/22.generate-parenthese.cpp) |
 | 23 | Merge k sorted lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/23.merge-k-sorted-lists.cpp) |
+| 24 | Swap nodes in pairs | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/24.swap-nodes-in-pairs.cpp) |
