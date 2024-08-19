@@ -28,3 +28,4 @@
 | 25 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/25.reverser-nodes-in-k-group.cpp) |
 | 26 | Remove duplicates from sorted array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/26.remove-duplicates-from-sorted-array.cpp) |
 | 27 | Remove element | [Link](https://leetcode.com/problems/remove-element/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/27.remove-element.cpp) |
+| 27 | Find the index of the first occurrence in a string | [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/28.find-the-index-of-the-first-occurrence-in-a-string.cpp) |
