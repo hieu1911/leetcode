@@ -26,3 +26,4 @@
 | 23 | Merge k sorted lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/23.merge-k-sorted-lists.cpp) |
 | 24 | Swap nodes in pairs | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/24.swap-nodes-in-pairs.cpp) |
 | 25 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/25.reverser-nodes-in-k-group.cpp) |
+| 26 | Remove duplicates from sorted array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/26.remove-duplicates-from-sorted-array.cpp) |
