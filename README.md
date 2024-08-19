@@ -25,3 +25,4 @@
 | 22 | Generate parenthese | [Link](https://leetcode.com/problems/generate-parentheses/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/22.generate-parenthese.cpp) |
 | 23 | Merge k sorted lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/23.merge-k-sorted-lists.cpp) |
 | 24 | Swap nodes in pairs | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/24.swap-nodes-in-pairs.cpp) |
+| 25 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/25.reverser-nodes-in-k-group.cpp) |
