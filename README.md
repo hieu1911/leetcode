@@ -31,3 +31,4 @@
 | 28 | Find the index of the first occurrence in a string | [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/28.find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 | 29 | Devide two intergers | [Link](https://leetcode.com/problems/divide-two-integers/) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/29.devide-two-intergers.cpp) |
 | 30 | Substring with concatenation of all words | [Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/30.substring-with-concatenation-of-all-words.cpp) |
+| 31 | Next permutation | [Link](https://leetcode.com/problems/next-permutation) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/31.next-permutation.cpp) |
