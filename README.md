@@ -34,3 +34,4 @@
 | 31 | Next permutation | [Link](https://leetcode.com/problems/next-permutation) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/31.next-permutation.cpp) |
 | 32 | Longest valid parentheses | [Link](https://leetcode.com/problems/longest-valid-parentheses) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/32.longest-valid-parentheses.cpp) |
 | 33 | Search in rotated sorted array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/33.sort-in-rotated-sorted-array.cpp) |
+| 34 | Find first and last position of element in sorted array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/34.find-first-and-last-position-of-element-in-sorted-array.cpp) |
