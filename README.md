@@ -33,3 +33,4 @@
 | 30 | Substring with concatenation of all words | [Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/30.substring-with-concatenation-of-all-words.cpp) |
 | 31 | Next permutation | [Link](https://leetcode.com/problems/next-permutation) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/31.next-permutation.cpp) |
 | 32 | Longest valid parentheses | [Link](https://leetcode.com/problems/longest-valid-parentheses) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/32.longest-valid-parentheses.cpp) |
+| 33 | Search in rotated sorted array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/33.sort-in-rotated-sorted-array.cpp) |
