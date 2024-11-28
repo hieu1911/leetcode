@@ -37,3 +37,4 @@
 | 34 | Find first and last position of element in sorted array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/34.find-first-and-last-position-of-element-in-sorted-array.cpp) |
 | 35 | Search insert position | [Link](https://leetcode.com/problems/search-insert-position) | [Link](https://github.com/hieu1911/leetcode/blob/master/easy/35.search-insert-position.cpp) |
 | 36 | Valid sodoku | [Link](https://leetcode.com/problems/valid-sudoku) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/36.valid-sodoku.cpp) |
+| 37 | Sodoku solver | [Link](https://leetcode.com/problems/sudoku-solver) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/37.sodoku-solver.cpp) |

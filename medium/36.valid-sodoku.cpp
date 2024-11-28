@@ -5,10 +5,10 @@ public:
         set<char> col[9];
         set<char> box[9];
 
-        for (int r = 0; r < 9; ++i) {
-            for (int c = 0; c < 9; ++i) {
+        for (int r = 0; r < 9; ++r) {
+            for (int c = 0; c < 9; ++c) {
                 char ch = board[r][c];
-                if (ch == ".") {
+                if (ch == '.') {
                     continue;
                 }
                 
@@ -19,9 +19,9 @@ public:
                     return false;
                 }
 
-                row.insert(ch);
-                col.insert(ch);
-                box.insert(ch);
+                row[r].insert(ch);
+                col[c].insert(ch);
+                box[idxbox].insert(ch);
             }
         }
 
