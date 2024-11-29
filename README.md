@@ -39,3 +39,4 @@
 | 36 | Valid sodoku | [Link](https://leetcode.com/problems/valid-sudoku) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/36.valid-sodoku.cpp) |
 | 37 | Sodoku solver | [Link](https://leetcode.com/problems/sudoku-solver) | [Link](https://github.com/hieu1911/leetcode/blob/master/hard/37.sodoku-solver.cpp) |
 | 38 | Count and say | [Link](https://leetcode.com/problems/count-and-say) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/38.count-and-say.cpp) |
+| 39 | Combination sum | [Link](https://leetcode.com/problems/combination-sum) | [Link](https://github.com/hieu1911/leetcode/blob/master/medium/39.combination-sum.cpp) |
